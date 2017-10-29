@@ -341,6 +341,7 @@ a.btn-cta {
   max-width: 760px;
   margin: 0 auto;
   margin-bottom: 60px;
+  text-align:left;
 }
 .about-section .items-wrapper {
   margin-bottom: 60px;
@@ -362,6 +363,7 @@ a.btn-cta {
 }
 .about-section .items-wrapper .item-desc {
   color: #616670;
+  text-align:left;
 }
 .technologies {
   margin-bottom: 90px;
@@ -605,7 +607,7 @@ a.btn-cta {
   min-height: 60px;
 }
 .pricing-wrapper .price-figure {
-  font-size: 46px;
+  font-size: 30px;
   margin-bottom: 15px;
 }
 .pricing-wrapper .price-figure .currency {
@@ -742,6 +744,8 @@ a.btn-cta {
 }
 .team-section .member-desc {
   color: #616670;
+  text-align:left
+
 }
 /* ======= Contact Section ======= */
 .contact-section {
